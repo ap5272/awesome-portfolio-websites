@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Breakout",
-    cardImage: "/assets/images/project-page/breakout.PNG",
+    cardImage: "assets/images/project-page/breakout.PNG",
     description: "Breakout student project.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://ap5272.github.io/Games/breakout/index.html",
